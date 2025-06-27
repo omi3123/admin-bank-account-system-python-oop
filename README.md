@@ -1,30 +1,45 @@
-# Admin-Protected Bank Account System - Python OOP
+# 🔐🏦 **Admin-Protected Bank Account System – Python OOP**
 
-A Python-based **Bank Account Management System** with **admin-level password control** and **custom exception handling**. This OOP-driven program ensures secure balance operations and restricted password changes.
+A secure **Bank Account Management System** built using **Object-Oriented Programming (OOP)** in Python.  
+This program ensures **admin-level password protection**, secure **balance operations**, and uses **custom exception handling** for unauthorized access or wrong credentials.
 
-## 🔐 Features
+---
 
-- Password-protected balance check, deposit & withdrawal
-- Admin-only password reset
-- Custom exceptions for:
-  - Wrong user password
-  - Unauthorized admin access
-- Private attributes using name mangling (`__password`)
-- Clean class-based design
+## 📌 Features
+
+- 🔑 Password-Protected Balance Check, Deposit & Withdraw  
+- 🛡️ Admin-Only Password Reset  
+- ❌ Custom Exceptions for:
+  - Wrong User Password  
+  - Unauthorized Admin Access  
+- 🔒 Private Attributes using `__password` (Name Mangling)  
+- 📦 Clean Class-Based OOP Design
+
+---
 
 ## 🧱 Tech Stack
 
-- Language: Python
-- Concepts Used:
-  - Classes & Objects
-  - Encapsulation
-  - Custom Exceptions
-  - Access Restriction (admin-level actions)
+- **Language:** Python  
+- **Concepts Used:**
+  - Classes & Objects  
+  - Encapsulation  
+  - Custom Exception Handling  
+  - Admin-Level Access Control  
+  - Private Members
 
-## 🚀 How to Run
+---
 
-1. Make sure Python is installed.
-2. Run the file:
+## ▶️ How to Run
 
+### 💻 Terminal / Command Prompt:
 ```bash
 python AdminBankAccProjectUsinggOOP.py
+✅ Make sure Python is installed and added to your system PATH.
+
+👨‍💻 Author
+Muhammad Umair Bashir
+📧 umairbashir0319@gmail.com
+
+🪪 License
+This project is created for educational use, practice, and basic security simulation.
+You’re welcome to use or modify it with attribution.
